@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "^0.4.1",
+    "pws": "^4.3.0",
+    "websocket-heartbeat-js": "^1.0.9",
+    "ws": "^7.2.1",
+    "ws-reconnect": "^1.0.7"
+  }
+}
